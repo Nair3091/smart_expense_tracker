@@ -1,0 +1,401 @@
+id,date,category,amount,payment_method,merchant,note
+101,2025-10-21,Rent,8625.05,Card,Landlord Sharma,Monthly PG rent
+102,2025-10-23,Food,454.52,UPI,Domino's,Midnight study snack
+103,2025-10-23,Transport,78.51,Cash,City Bus Pass,Monthly student bus pass
+104,2025-10-27,Transport,130.68,Cash,City Bus Pass,Auto to campus
+105,2025-10-28,Utilities,332.96,UPI,Jio Fiber,Room electricity split
+106,2025-10-28,Entertainment,644.15,UPI,Netflix,Monthly Spotify premium
+107,2025-10-29,Food,148.89,Cash,Domino's,Evening snacks & tea
+108,2025-11-01,Food,55.57,UPI,Swiggy,Pizza party contribution
+109,2025-11-03,Transport,170.82,UPI,Uber,Monthly student bus pass
+110,2025-11-03,Food,115.29,UPI,Subway,Coffee run
+111,2025-11-03,Food,71.14,Card,Chai Point,Mess monthly coupon
+112,2025-11-05,Food,138.01,UPI,Local Bakery,Evening snacks & tea
+113,2025-11-07,Education,508.84,UPI,Udemy,Textbook for Python course
+114,2025-11-07,Food,370.21,Cash,Chai Point,Coffee run
+115,2025-11-09,Utilities,410.13,Card,Campus Laundromat,Drinking water 20L can
+116,2025-11-10,Food,229.12,UPI,Swiggy,Coffee run
+117,2025-11-11,Utilities,581.4,UPI,Jio Fiber,Room electricity split
+118,2025-11-12,Education,799.2,UPI,University Book Store,Textbook for Python course
+119,2025-11-13,Food,420.28,UPI,Chai Point,Evening snacks & tea
+120,2025-11-13,Education,275.66,Card,Technical Society Lab,
+121,2025-11-14,Shopping,1995.23,UPI,Amazon,
+122,2025-11-15,Food,125.58,Card,Zomato,Breakfast before lab
+123,2025-11-15,Education,3102.67,UPI,Udemy,Lab notebook & printouts
+124,2025-11-18,Transport,96.06,UPI,Delhi Metro,
+125,2025-11-19,Shopping,1824.4,UPI,Zudio,Casual t-shirt
+126,2025-11-20,Transport,245.65,UPI,Delhi Metro,Rapido ride to project meeting
+127,2025-11-20,Food,235.48,UPI,Swiggy,Weekend dinner delivery
+128,2025-11-21,Rent,12182.36,UPI,Hostel Warden Office,Hostel accommodation fee
+129,2025-11-21,Food,206.22,Card,Local Bakery,Breakfast before lab
+130,2025-11-21,Transport,147.39,UPI,City Bus Pass,Monthly student bus pass
+131,2025-11-22,Food,91.16,Card,Subway,Midnight study snack
+132,2025-11-22,Education,1135.45,UPI,Printech Xerox & Stationery,Lab notebook & printouts
+133,2025-11-23,Food,335.47,Cash,Domino's,Evening snacks & tea
+134,2025-11-23,Shopping,536.28,UPI,Amazon,Desk lamp & organizer
+135,2025-11-23,Utilities,397.8,UPI,Electricity Board,Laundromat tokens
+136,2025-11-24,Food,470.2,Card,Zomato,Weekend dinner delivery
+137,2025-11-24,Food,404.27,Card,College Mess,Mess monthly coupon
+138,2025-11-24,Shopping,668.02,UPI,Amazon,College backpack replacement
+139,2025-11-25,Shopping,454.12,Card,Zudio,Toiletries & groceries
+140,2025-11-26,Transport,27.75,UPI,Delhi Metro,Rapido ride to project meeting
+141,2025-11-26,Food,291.77,UPI,Zomato,Weekend dinner delivery
+142,2025-11-26,Utilities,1094.23,Card,Water Can Delivery,WiFi bill share
+143,2025-11-27,Health,1128.01,Cash,MedPlus,Cold and cough medicines
+144,2025-11-28,Transport,235.5,Cash,Ola Cabs,Auto to campus
+145,2025-11-28,Food,321.88,UPI,Domino's,Pizza party contribution
+146,2025-11-28,Food,290.4,Card,Subway,Midnight study snack
+147,2025-11-29,Transport,141.75,UPI,Rapido Bike,Auto to campus
+148,2025-11-29,Transport,152.03,Cash,City Bus Pass,Auto to campus
+149,2025-11-30,Food,221.56,Card,Subway,Breakfast before lab
+150,2025-11-30,Food,294.32,Cash,Subway,Breakfast before lab
+151,2025-12-01,Transport,250.12,UPI,Auto Rickshaw,Rapido ride to project meeting
+152,2025-12-03,Food,,UPI,Subway,Evening snacks & tea
+153,2025-12-03,Utilities,219.04,Card,Campus Laundromat,Drinking water 20L can
+154,2025-12-05,Entertainment,776.06,UPI,Spotify Student,Steam sale game
+155,2025-12-08,Transport,244.65,UPI,Uber,Rapido ride to project meeting
+156,2025-12-11,Shopping,2568.94,UPI,Myntra,Desk lamp & organizer
+157,2025-12-11,Entertainment,240.7,UPI,Netflix,Steam sale game
+158,2025-12-12,Food,292.17,Cash,Zomato,Pizza party contribution
+159,2025-12-13,Utilities,967.34,UPI,Jio Fiber,Drinking water 20L can
+160,2025-12-13,Education,1455.25,Card,Printech Xerox & Stationery,Data science online course
+161,2025-12-13,Shopping,931.87,UPI,Decathlon,Toiletries & groceries
+162,2025-12-14,Entertainment,679.79,Card,BookMyShow,Steam sale game
+163,2025-12-15,Transport,,Card,City Bus Pass,Rapido ride to project meeting
+164,2025-12-16,Food,68.48,Cash,Campus Canteen,Coffee run
+165,2025-12-17,Transport,185.65,Cash,Ola Cabs,Cab back from station
+166,2025-12-17,Transport,163.16,UPI,Uber,Cab back from station
+167,2025-12-17,Education,1367.5,Card,Coursera,Workshop registration
+168,2025-12-18,Shopping,,Card,Flipkart,Toiletries & groceries
+169,2025-12-18,Entertainment,199.77,UPI,Netflix,Streaming subscription split
+170,2025-12-20,Rent,8648.99,UPI,Landlord Sharma,Room maintenance share
+171,2025-12-20,Food,145.32,UPI,Subway,
+172,2025-12-22,Food,237.38,UPI,Domino's,
+173,2025-12-23,Food,245.73,UPI,College Mess,Pizza party contribution
+174,2025-12-24,Transport,314.31,UPI,Auto Rickshaw,Rapido ride to project meeting
+175,2025-12-25,Education,2462.85,UPI,Technical Society Lab,Textbook for Python course
+176,2025-12-27,Transport,261.42,UPI,Auto Rickshaw,Rapido ride to project meeting
+177,2025-12-28,Food,,Cash,Campus Canteen,
+178,2025-12-28,Food,63.08,UPI,Campus Canteen,Breakfast before lab
+179,2025-12-28,Food,414.51,UPI,Zomato,Pizza party contribution
+180,2025-12-29,Food,103.95,UPI,Swiggy,Lunch with classmates
+181,2025-12-29,Entertainment,150.83,Card,Bowling Alley,Monthly Spotify premium
+182,2025-12-30,Health,160.26,UPI,Campus Health Center,Gym monthly membership
+183,2026-01-03,Food,404.82,UPI,College Mess,Pizza party contribution
+184,2026-01-04,Shopping,1460.47,Card,Myntra,Casual t-shirt
+185,2026-01-05,Food,230.69,UPI,Local Bakery,Breakfast before lab
+186,2026-01-06,Health,1425.58,Cash,Apollo Pharmacy,Vitamins & supplements
+187,2026-01-06,Transport,72.86,Cash,Rapido Bike,Monthly student bus pass
+188,2026-01-06,Shopping,1090.03,UPI,Myntra,Sports shoes
+189,2026-01-07,Education,958.83,UPI,Coursera,Lab notebook & printouts
+190,2026-01-08,Shopping,491.11,Card,Zudio,Casual t-shirt
+191,2026-01-08,Utilities,538.56,UPI,Electricity Board,Drinking water 20L can
+192,2026-01-10,Food,275.02,Card,Campus Canteen,Coffee run
+193,2026-01-10,Food,364.85,Card,Domino's,Lunch with classmates
+194,2026-01-14,Food,328.19,UPI,Subway,Evening snacks & tea
+195,2026-01-17,Entertainment,226.35,UPI,Bowling Alley,Monthly Spotify premium
+196,2026-01-19,Rent,11306.23,Card,Landlord Sharma,Hostel accommodation fee
+197,2026-01-23,Transport,172.22,Card,City Bus Pass,Metro smart card recharge
+198,2026-01-24,Food,265.71,Card,Local Bakery,Pizza party contribution
+199,2026-01-24,Food,471.44,Cash,Domino's,Mess monthly coupon
+200,2026-01-25,Food,273.65,Cash,Domino's,Weekend dinner delivery
+201,2026-01-25,Entertainment,365.56,UPI,Steam Gaming,Steam sale game
+202,2026-01-25,Food,374.59,UPI,Local Bakery,Pizza party contribution
+203,2026-01-30,Food,408.46,Card,Zomato,Mess monthly coupon
+204,2026-01-31,Health,157.54,UPI,Apollo Pharmacy,Doctor consultation fee
+205,2026-02-01,Entertainment,675.54,Card,Netflix,Weekend hangout
+206,2026-02-01,Utilities,,Card,Water Can Delivery,Room electricity split
+207,2026-02-01,Entertainment,369.48,UPI,Netflix,Weekend hangout
+208,2026-02-03,Food,313.35,UPI,Swiggy,Weekend dinner delivery
+209,2026-02-05,Food,326.67,UPI,Local Bakery,Weekend dinner delivery
+210,2026-02-05,Education,1212.86,Card,Udemy,Lab notebook & printouts
+211,2026-02-06,Transport,184.07,Card,Uber,Monthly student bus pass
+212,2026-02-06,Transport,174.24,Cash,Ola Cabs,Metro smart card recharge
+213,2026-02-06,Food,187.07,UPI,College Mess,Mess monthly coupon
+214,2026-02-07,Shopping,1417.61,UPI,Decathlon,Casual t-shirt
+215,2026-02-08,Food,232.31,Cash,Subway,Evening snacks & tea
+216,2026-02-09,Utilities,868.84,UPI,Jio Fiber,Mobile recharge 3 months
+217,2026-02-09,Utilities,436.58,Card,Airtel Prepaid,Room electricity split
+218,2026-02-10,Transport,123.26,Cash,Delhi Metro,Rapido ride to project meeting
+219,2026-02-11,Food,324.31,UPI,Campus Canteen,Mess monthly coupon
+220,2026-02-11,Food,412.04,UPI,Subway,Evening snacks & tea
+221,2026-02-11,Education,206.82,UPI,Udemy,Data science online course
+222,2026-02-12,Transport,317.72,UPI,Auto Rickshaw,Metro smart card recharge
+223,2026-02-13,Food,134.2,Cash,Domino's,Coffee run
+224,2026-02-13,Food,367.31,UPI,Swiggy,Evening snacks & tea
+225,2026-02-14,Shopping,1877.98,Card,Flipkart,Sports shoes
+226,2026-02-15,Transport,138.0,Cash,Rapido Bike,Cab back from station
+227,2026-02-15,Shopping,612.83,UPI,Myntra,College backpack replacement
+228,2026-02-16,Education,1131.96,UPI,Technical Society Lab,Textbook for Python course
+229,2026-02-17,Food,334.39,Cash,College Mess,Weekend dinner delivery
+230,2026-02-18,Shopping,731.58,Card,Decathlon,Sports shoes
+231,2026-02-18,Utilities,550.43,Card,Water Can Delivery,Laundromat tokens
+232,2026-02-18,Utilities,979.89,UPI,Electricity Board,Drinking water 20L can
+233,2026-02-19,Food,112.35,UPI,Zomato,Lunch with classmates
+234,2026-02-20,Rent,12547.15,UPI,Landlord Sharma,Room maintenance share
+235,2026-02-21,Food,368.96,Card,Domino's,Coffee run
+236,2026-02-22,Food,199.44,Cash,Local Bakery,Breakfast before lab
+237,2026-02-23,Education,553.9,UPI,Udemy,Stationery supplies
+238,2026-02-25,Shopping,2653.78,UPI,Amazon,Desk lamp & organizer
+239,2026-02-25,Food,46.51,Cash,Campus Canteen,Breakfast before lab
+240,2026-02-25,Health,1493.37,UPI,Apollo Pharmacy,Vitamins & supplements
+241,2026-02-25,Shopping,809.58,UPI,Myntra,Sports shoes
+242,2026-02-26,Food,357.06,Card,Zomato,Coffee run
+243,2026-02-27,Entertainment,673.14,Card,Spotify Student,Steam sale game
+244,2026-02-28,Food,441.75,UPI,Chai Point,Coffee run
+245,2026-03-03,Education,2506.89,UPI,Printech Xerox & Stationery,Data science online course
+246,2026-03-04,Food,97.14,Card,Chai Point,Midnight study snack
+247,2026-03-04,Shopping,599.23,UPI,Local Supermarket,Toiletries & groceries
+248,2026-03-04,Health,147.72,Cash,Cult.fit Gym,Doctor consultation fee
+249,2026-03-04,Education,1162.77,UPI,Printech Xerox & Stationery,Textbook for Python course
+250,2026-03-04,Health,1367.69,Card,Campus Health Center,Cold and cough medicines
+251,2026-03-05,Food,105.84,UPI,Domino's,Lunch with classmates
+252,2026-03-05,Food,400.14,UPI,Chai Point,Pizza party contribution
+253,2026-03-07,Entertainment,941.29,UPI,Bowling Alley,Steam sale game
+254,2026-03-08,Entertainment,534.89,Card,PVR Cinemas,Movie tickets with friends
+255,2026-03-08,Food,130.93,Card,Swiggy,Coffee run
+256,2026-03-09,Food,298.18,UPI,Swiggy,Breakfast before lab
+257,2026-03-09,Food,319.56,UPI,Swiggy,Midnight study snack
+258,2026-03-10,Food,54.62,UPI,Zomato,Breakfast before lab
+259,2026-03-10,Entertainment,761.09,Card,Spotify Student,Steam sale game
+260,2026-03-10,Food,119.46,UPI,Local Bakery,Evening snacks & tea
+261,2026-03-10,Utilities,1051.33,UPI,Jio Fiber,Drinking water 20L can
+262,2026-03-11,Food,240.87,UPI,Local Bakery,Evening snacks & tea
+263,2026-03-11,Health,1609.9,Card,Campus Health Center,First aid essentials
+264,2026-03-11,Education,1888.23,Card,Technical Society Lab,
+265,2026-03-15,Entertainment,564.99,UPI,PVR Cinemas,Monthly Spotify premium
+266,2026-03-16,Food,230.42,UPI,Chai Point,Midnight study snack
+267,2026-03-16,Food,140.75,UPI,Campus Canteen,Mess monthly coupon
+268,2026-03-17,Entertainment,391.67,UPI,PVR Cinemas,
+269,2026-03-18,Entertainment,475.7,UPI,Spotify Student,Monthly Spotify premium
+270,2026-03-19,Food,228.47,UPI,Campus Canteen,Breakfast before lab
+271,2026-03-19,Food,133.61,Cash,Chai Point,
+272,2026-03-20,Entertainment,308.04,UPI,Spotify Student,Movie tickets with friends
+273,2026-03-21,Entertainment,495.9,UPI,BookMyShow,Monthly Spotify premium
+274,2026-03-23,Rent,10201.25,UPI,Landlord Sharma,Hostel accommodation fee
+275,2026-03-23,Health,432.61,Card,Cult.fit Gym,Cold and cough medicines
+276,2026-03-25,Transport,192.75,UPI,City Bus Pass,Metro smart card recharge
+277,2026-03-26,Food,197.27,UPI,Subway,Mess monthly coupon
+278,2026-03-26,Entertainment,532.31,UPI,PVR Cinemas,Steam sale game
+279,2026-03-27,Food,264.35,Card,Local Bakery,Breakfast before lab
+280,2026-03-28,Utilities,,UPI,Electricity Board,Drinking water 20L can
+281,2026-03-28,Food,280.12,Card,Domino's,Evening snacks & tea
+282,2026-03-29,Food,229.2,Card,Swiggy,Midnight study snack
+283,2026-03-29,Entertainment,670.27,UPI,Bowling Alley,Weekend hangout
+284,2026-03-29,Food,330.97,UPI,Zomato,Pizza party contribution
+285,2026-03-29,Utilities,832.04,UPI,Airtel Prepaid,Mobile recharge 3 months
+286,2026-03-30,Food,213.52,UPI,College Mess,Coffee run
+287,2026-03-31,Utilities,824.46,Card,Campus Laundromat,Drinking water 20L can
+288,2026-04-01,Health,1660.66,UPI,MedPlus,Vitamins & supplements
+289,2026-04-01,Food,142.57,UPI,Chai Point,Pizza party contribution
+290,2026-04-02,Food,80.66,UPI,Chai Point,Breakfast before lab
+291,2026-04-03,Food,414.01,UPI,Chai Point,Pizza party contribution
+292,2026-04-03,Education,477.04,Card,Technical Society Lab,Textbook for Python course
+293,2026-04-04,Shopping,2369.77,Card,Myntra,Casual t-shirt
+294,2026-04-05,Entertainment,,UPI,Netflix,Monthly Spotify premium
+295,2026-04-06,Transport,146.44,Card,Ola Cabs,Monthly student bus pass
+296,2026-04-06,Transport,276.44,Card,Ola Cabs,Monthly student bus pass
+297,2026-04-07,Food,66.53,Cash,Chai Point,Pizza party contribution
+298,2026-04-08,Shopping,,UPI,Zudio,Sports shoes
+299,2026-04-08,Transport,64.36,UPI,City Bus Pass,Auto to campus
+300,2026-04-10,Food,332.65,UPI,Zomato,Pizza party contribution
+301,2026-04-11,Education,3119.07,Card,Printech Xerox & Stationery,Lab notebook & printouts
+302,2026-04-14,Utilities,403.18,UPI,Airtel Prepaid,Drinking water 20L can
+303,2026-04-14,Transport,62.86,Cash,Uber,Monthly student bus pass
+304,2026-04-15,Education,1760.86,UPI,Udemy,Textbook for Python course
+305,2026-04-15,Food,456.63,Card,Chai Point,Evening snacks & tea
+306,2026-04-16,Food,449.06,UPI,Campus Canteen,
+307,2026-04-17,Entertainment,723.45,UPI,Netflix,Monthly Spotify premium
+308,2026-04-17,Transport,,UPI,City Bus Pass,Monthly student bus pass
+309,2026-04-18,Food,347.77,UPI,Chai Point,Breakfast before lab
+310,2026-04-19,Rent,8963.73,UPI,Student PG Co-living,Hostel accommodation fee
+311,2026-04-19,Food,128.23,UPI,Swiggy,Weekend dinner delivery
+312,2026-04-23,Food,263.39,UPI,Local Bakery,Mess monthly coupon
+313,2026-04-23,Food,261.4,UPI,College Mess,Weekend dinner delivery
+314,2026-04-24,Transport,176.36,Cash,Delhi Metro,Cab back from station
+315,2026-04-26,Food,229.44,UPI,Local Bakery,Midnight study snack
+316,2026-04-28,Food,281.77,UPI,Swiggy,Breakfast before lab
+317,2026-04-29,Transport,99.83,UPI,Ola Cabs,Metro smart card recharge
+318,2026-05-02,Food,180.67,UPI,Subway,Coffee run
+319,2026-05-02,Health,572.51,Card,Campus Health Center,Cold and cough medicines
+320,2026-05-03,Food,258.79,UPI,Zomato,Mess monthly coupon
+321,2026-05-04,Utilities,1146.94,UPI,Water Can Delivery,WiFi bill share
+322,2026-05-06,Food,216.9,UPI,Campus Canteen,Coffee run
+323,2026-05-07,Food,153.02,UPI,Chai Point,Midnight study snack
+324,2026-05-07,Entertainment,844.74,UPI,Bowling Alley,Streaming subscription split
+325,2026-05-10,Food,93.24,UPI,Local Bakery,Coffee run
+326,2026-05-12,Food,337.39,Card,Subway,Lunch with classmates
+327,2026-05-13,Education,2899.52,UPI,Printech Xerox & Stationery,Textbook for Python course
+328,2026-05-13,Food,224.69,UPI,Local Bakery,Pizza party contribution
+329,2026-05-13,Food,57.77,Card,College Mess,Coffee run
+330,2026-05-14,Utilities,914.62,UPI,Jio Fiber,WiFi bill share
+331,2026-05-16,Utilities,349.93,UPI,Campus Laundromat,Laundromat tokens
+332,2026-05-17,Shopping,1470.76,UPI,Decathlon,Casual t-shirt
+333,2026-05-17,Utilities,499.97,UPI,Airtel Prepaid,WiFi bill share
+334,2026-05-17,Entertainment,842.75,UPI,BookMyShow,
+335,2026-05-18,Food,54.42,UPI,Domino's,Midnight study snack
+336,2026-05-18,Food,377.28,Card,Swiggy,Weekend dinner delivery
+337,2026-05-19,Food,46.03,UPI,Domino's,Mess monthly coupon
+338,2026-05-20,Food,429.33,Card,College Mess,Midnight study snack
+339,2026-05-20,Transport,43.37,Card,Auto Rickshaw,Rapido ride to project meeting
+340,2026-05-20,Utilities,1026.46,Card,Jio Fiber,Room electricity split
+341,2026-05-21,Rent,12535.64,Card,Hostel Warden Office,Monthly PG rent
+342,2026-05-22,Food,319.33,Card,Local Bakery,Evening snacks & tea
+343,2026-05-24,Food,217.94,UPI,Swiggy,
+344,2026-05-28,Entertainment,177.15,UPI,Spotify Student,Steam sale game
+345,2026-05-28,Education,2540.14,UPI,Udemy,Stationery supplies
+346,2026-05-28,Shopping,677.63,UPI,Decathlon,Toiletries & groceries
+347,2026-05-28,Shopping,556.96,UPI,Amazon,Toiletries & groceries
+348,2026-05-28,Transport,57.71,Card,City Bus Pass,Auto to campus
+349,2026-05-30,Education,662.5,UPI,Udemy,Workshop registration
+350,2026-06-01,Utilities,1074.89,Card,Airtel Prepaid,Mobile recharge 3 months
+351,2026-06-02,Food,79.37,UPI,Campus Canteen,Weekend dinner delivery
+352,2026-06-02,Food,219.95,UPI,College Mess,Coffee run
+353,2026-06-03,Utilities,614.27,UPI,Water Can Delivery,Room electricity split
+354,2026-06-04,Food,109.03,UPI,Campus Canteen,Lunch with classmates
+355,2026-06-05,Transport,202.77,Card,Uber,Monthly student bus pass
+356,2026-06-07,Utilities,1103.93,Card,Water Can Delivery,Room electricity split
+357,2026-06-09,Education,1262.72,UPI,Technical Society Lab,
+358,2026-06-09,Food,212.43,UPI,Subway,Midnight study snack
+359,2026-06-11,Food,321.29,UPI,Campus Canteen,Pizza party contribution
+360,2026-06-11,Utilities,1165.02,UPI,Water Can Delivery,Laundromat tokens
+361,2026-06-12,Education,2682.64,Card,University Book Store,Stationery supplies
+362,2026-06-13,Utilities,624.51,UPI,Electricity Board,Laundromat tokens
+363,2026-06-14,Education,274.67,UPI,University Book Store,Stationery supplies
+364,2026-06-17,Transport,90.62,Card,Ola Cabs,
+365,2026-06-17,Food,43.63,Card,Campus Canteen,Coffee run
+366,2026-06-19,Food,281.3,UPI,Domino's,
+367,2026-06-20,Entertainment,493.01,UPI,Bowling Alley,Weekend hangout
+368,2026-06-21,Rent,8894.0,Card,Hostel Warden Office,Room maintenance share
+369,2026-06-21,Food,258.77,Card,Zomato,Lunch with classmates
+370,2026-06-21,Transport,,UPI,Auto Rickshaw,Monthly student bus pass
+371,2026-06-22,Food,231.01,Cash,Campus Canteen,Breakfast before lab
+372,2026-06-24,Transport,106.57,UPI,Delhi Metro,Cab back from station
+373,2026-06-27,Transport,30.75,UPI,Ola Cabs,Cab back from station
+374,2026-06-27,Transport,188.78,Cash,Rapido Bike,Monthly student bus pass
+375,2026-06-27,Utilities,796.43,Card,Airtel Prepaid,Laundromat tokens
+376,2026-06-29,Utilities,245.45,UPI,Airtel Prepaid,WiFi bill share
+377,2026-06-30,Entertainment,451.11,UPI,Bowling Alley,Movie tickets with friends
+378,2026-07-03,Food,374.07,Card,Swiggy,Breakfast before lab
+379,2026-07-03,Food,283.63,UPI,Swiggy,Midnight study snack
+380,2026-07-04,Shopping,1271.67,Card,Amazon,Casual t-shirt
+381,2026-07-04,Transport,293.66,UPI,Delhi Metro,Rapido ride to project meeting
+382,2026-07-05,Food,224.9,Card,Local Bakery,Weekend dinner delivery
+383,2026-07-06,Health,627.43,Card,Campus Health Center,Gym monthly membership
+384,2026-07-06,Transport,216.03,UPI,Auto Rickshaw,Monthly student bus pass
+385,2026-07-07,Transport,48.63,Cash,Delhi Metro,Rapido ride to project meeting
+386,2026-07-07,Utilities,529.92,Card,Electricity Board,WiFi bill share
+387,2026-07-11,Food,456.89,UPI,College Mess,Midnight study snack
+388,2026-07-12,Entertainment,340.64,UPI,Bowling Alley,Streaming subscription split
+389,2026-07-13,Education,2970.77,UPI,Coursera,Lab notebook & printouts
+390,2026-07-13,Health,937.74,UPI,Campus Health Center,Gym monthly membership
+391,2026-07-14,Food,306.36,UPI,Subway,Breakfast before lab
+392,2026-07-16,Transport,58.53,UPI,Auto Rickshaw,Monthly student bus pass
+393,2026-07-16,Shopping,1714.16,UPI,Zudio,College backpack replacement
+394,2026-07-17,Food,423.23,UPI,College Mess,Mess monthly coupon
+395,2026-07-18,Entertainment,,Card,PVR Cinemas,Weekend hangout
+396,2026-07-20,Rent,11386.76,UPI,Landlord Sharma,Room maintenance share
+397,2026-07-20,Shopping,2195.46,UPI,Decathlon,Desk lamp & organizer
+398,2026-07-20,Shopping,921.08,Card,Flipkart,Casual t-shirt
+399,2026-07-21,Food,458.14,Cash,College Mess,Mess monthly coupon
+400,2026-07-22,Food,367.64,Card,College Mess,Pizza party contribution
+401,2026-07-22,Food,379.72,UPI,Domino's,Breakfast before lab
+402,2026-07-23,Food,425.02,UPI,Chai Point,Weekend dinner delivery
+403,2026-07-24,Transport,35.59,UPI,Uber,Auto to campus
+404,2026-07-27,Food,406.01,UPI,Chai Point,Mess monthly coupon
+405,2026-07-28,Food,51.33,UPI,Subway,Breakfast before lab
+406,2026-07-28,Utilities,719.28,Card,Jio Fiber,WiFi bill share
+407,2026-07-29,Food,99.37,Cash,Zomato,Evening snacks & tea
+408,2026-07-29,Food,374.48,UPI,Local Bakery,Coffee run
+409,2026-07-30,Shopping,2537.89,UPI,Local Supermarket,College backpack replacement
+410,2026-07-30,Shopping,1058.85,UPI,Local Supermarket,Desk lamp & organizer
+411,2026-07-30,Food,163.43,UPI,Local Bakery,
+412,2026-08-01,Food,375.18,Card,College Mess,Midnight study snack
+413,2026-08-03,Food,180.96,Card,College Mess,Evening snacks & tea
+414,2026-08-04,Shopping,2023.46,UPI,Local Supermarket,
+415,2026-08-04,Food,457.36,UPI,College Mess,Evening snacks & tea
+416,2026-08-05,Food,419.95,UPI,Local Bakery,Breakfast before lab
+417,2026-08-07,Shopping,939.41,UPI,Amazon,Toiletries & groceries
+418,2026-08-08,Food,220.37,UPI,Subway,Evening snacks & tea
+419,2026-08-08,Food,,UPI,Local Bakery,Breakfast before lab
+420,2026-08-09,Shopping,1258.54,UPI,Flipkart,Toiletries & groceries
+421,2026-08-10,Education,1442.2,Card,Printech Xerox & Stationery,Lab notebook & printouts
+422,2026-08-11,Food,119.59,UPI,Domino's,Lunch with classmates
+423,2026-08-11,Entertainment,,UPI,PVR Cinemas,Steam sale game
+424,2026-08-12,Food,197.36,Cash,Swiggy,Breakfast before lab
+425,2026-08-13,Transport,188.52,UPI,Auto Rickshaw,Rapido ride to project meeting
+426,2026-08-14,Education,1350.15,UPI,Coursera,Workshop registration
+427,2026-08-14,Food,280.87,UPI,Zomato,Lunch with classmates
+428,2026-08-14,Food,98.69,UPI,Chai Point,Pizza party contribution
+429,2026-08-16,Entertainment,735.83,UPI,PVR Cinemas,Movie tickets with friends
+430,2026-08-17,Transport,,Cash,Delhi Metro,Metro smart card recharge
+431,2026-08-18,Rent,12365.34,UPI,Landlord Sharma,Monthly PG rent
+432,2026-08-21,Education,2279.65,Card,Technical Society Lab,Textbook for Python course
+433,2026-08-21,Shopping,1678.98,Card,Zudio,Toiletries & groceries
+434,2026-08-21,Food,72.81,UPI,Zomato,Weekend dinner delivery
+435,2026-08-22,Health,150.55,Card,Campus Health Center,First aid essentials
+436,2026-08-25,Health,324.97,Card,Apollo Pharmacy,Gym monthly membership
+437,2026-08-26,Education,3088.3,UPI,University Book Store,Data science online course
+438,2026-08-26,Food,98.93,UPI,Subway,Midnight study snack
+439,2026-08-27,Food,336.75,UPI,Campus Canteen,Weekend dinner delivery
+440,2026-08-28,Food,422.52,Card,College Mess,Pizza party contribution
+441,2026-08-28,Entertainment,355.78,UPI,PVR Cinemas,Monthly Spotify premium
+442,2026-08-29,Shopping,2858.0,UPI,Zudio,College backpack replacement
+443,2026-08-29,Entertainment,356.31,Card,Netflix,Movie tickets with friends
+444,2026-08-30,Entertainment,155.04,UPI,Steam Gaming,Weekend hangout
+445,2026-08-30,Food,335.36,Card,Campus Canteen,Breakfast before lab
+446,2026-08-31,Food,221.07,Cash,Subway,Coffee run
+447,2026-09-01,Utilities,202.25,UPI,Electricity Board,Room electricity split
+448,2026-09-02,Education,2428.39,UPI,Coursera,Data science online course
+449,2026-09-02,Utilities,413.16,UPI,Jio Fiber,Mobile recharge 3 months
+450,2026-09-05,Shopping,1086.65,UPI,Amazon,Toiletries & groceries
+451,2026-09-06,Entertainment,251.95,UPI,PVR Cinemas,Steam sale game
+452,2026-09-06,Food,322.62,UPI,Local Bakery,Lunch with classmates
+453,2026-09-06,Education,1641.88,UPI,Technical Society Lab,Stationery supplies
+454,2026-09-07,Entertainment,624.97,UPI,Bowling Alley,Monthly Spotify premium
+455,2026-09-09,Health,281.83,Cash,MedPlus,Doctor consultation fee
+456,2026-09-10,Utilities,1004.96,UPI,Campus Laundromat,Laundromat tokens
+457,2026-09-10,Food,401.62,UPI,Domino's,Evening snacks & tea
+458,2026-09-12,Food,260.91,Cash,Zomato,Coffee run
+459,2026-09-12,Education,3083.05,UPI,Udemy,Stationery supplies
+460,2026-09-13,Food,,Card,Zomato,Weekend dinner delivery
+461,2026-09-13,Food,460.71,UPI,College Mess,Midnight study snack
+462,2026-09-14,Food,387.29,Cash,Swiggy,Midnight study snack
+463,2026-09-14,Food,112.91,UPI,Local Bakery,Weekend dinner delivery
+464,2026-09-15,Transport,234.99,Card,Delhi Metro,Metro smart card recharge
+465,2026-09-16,Food,405.3,UPI,Chai Point,Breakfast before lab
+466,2026-09-18,Food,231.79,UPI,Zomato,
+467,2026-09-18,Transport,80.53,Card,City Bus Pass,Cab back from station
+468,2026-09-19,Rent,9889.87,Card,Landlord Sharma,Hostel accommodation fee
+469,2026-09-20,Transport,231.05,Card,Uber,Rapido ride to project meeting
+470,2026-09-21,Food,421.87,UPI,Domino's,Lunch with classmates
+471,2026-09-22,Utilities,649.05,UPI,Jio Fiber,Laundromat tokens
+472,2026-09-22,Food,312.89,Card,Subway,Lunch with classmates
+473,2026-09-23,Shopping,1401.86,UPI,Decathlon,Desk lamp & organizer
+474,2026-09-23,Transport,124.35,Cash,City Bus Pass,Monthly student bus pass
+475,2026-09-24,Shopping,2360.02,UPI,Flipkart,Desk lamp & organizer
+476,2026-09-24,Food,129.39,Card,Campus Canteen,Lunch with classmates
+477,2026-09-25,Food,453.46,Cash,Chai Point,Midnight study snack
+478,2026-09-26,Health,1526.27,Card,Apollo Pharmacy,Vitamins & supplements
+479,2026-09-28,Shopping,616.92,Card,Local Supermarket,Desk lamp & organizer
+480,2026-10-01,Education,2916.72,Card,Printech Xerox & Stationery,Data science online course
+481,2026-10-01,Entertainment,720.82,Card,Steam Gaming,Weekend hangout
+482,2026-10-02,Transport,304.4,Card,Auto Rickshaw,Auto to campus
+483,2026-10-02,Food,235.22,UPI,Subway,Pizza party contribution
+484,2026-10-03,Food,446.25,Card,Subway,Coffee run
+485,2026-10-04,Education,2845.15,Card,Udemy,Textbook for Python course
+486,2026-10-04,Food,146.04,UPI,Subway,Midnight study snack
+487,2026-10-04,Utilities,982.15,UPI,Jio Fiber,Mobile recharge 3 months
+488,2026-10-06,Food,138.87,UPI,College Mess,Midnight study snack
+489,2026-10-06,Food,198.46,UPI,Campus Canteen,Midnight study snack
+490,2026-10-11,Food,461.01,Card,Local Bakery,Weekend dinner delivery
+491,2026-10-11,Food,166.57,Cash,College Mess,Midnight study snack
+492,2026-10-11,Food,43.69,Card,Domino's,Pizza party contribution
+493,2026-10-11,Food,378.75,Card,Swiggy,Lunch with classmates
+494,2026-10-13,Shopping,965.49,Card,Flipkart,Toiletries & groceries
+495,2026-10-13,Food,166.38,UPI,Chai Point,Lunch with classmates
+496,2026-10-16,Food,243.75,Card,Campus Canteen,Evening snacks & tea
+497,2026-10-17,Health,1197.05,UPI,Apollo Pharmacy,Cold and cough medicines
+498,2026-10-17,Food,272.69,UPI,Campus Canteen,Lunch with classmates
+499,2026-10-17,Health,,Card,Dental Clinic,Gym monthly membership
+500,2026-10-20,Food,173.71,UPI,Local Bakery,Pizza party contribution
